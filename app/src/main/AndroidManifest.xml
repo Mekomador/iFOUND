@@ -15,7 +15,7 @@
             android:name=".FoundItemForm"
             android:exported="false" />
         <activity
-            android:name=".FoundItemPageActivity"
+            android:name=".FoundItemPageActivity"/>
         <activity
             android:name=".FoundItemFormActivity"
             android:exported="false" />
